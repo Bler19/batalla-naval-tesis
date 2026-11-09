@@ -26,7 +26,7 @@ El código completo de las simulaciones y los análisis se encuentra en:
 
 Algunas de las gráficas presentadas de realizaron en la herramienta de Microsoft Power BI, pueden ser localizadas en: 
 
-[Consultar informe de Power BI](https://app.powerbi.com/viewr=eyJrIjoiYWNiYTA0NDMtNzVhMC00Y2FhLTkzMmYtODViM2RiZTBiYzUyIiwidCI6IjI5OWEyODgxLTEzODAtNDAyMC1iNDJmLTcxNWEzNWUxYmNhZiIsImMiOjR9)
+[Consultar informe de Power BI](https://app.powerbi.com/view?r=eyJrIjoiYWNiYTA0NDMtNzVhMC00Y2FhLTkzMmYtODViM2RiZTBiYzUyIiwidCI6IjI5OWEyODgxLTEzODAtNDAyMC1iNDJmLTcxNWEzNWUxYmNhZiIsImMiOjR9)
 
 ## Uso de inteligencia artificial
 
