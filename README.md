@@ -28,6 +28,11 @@ Algunas de las gráficas presentadas de realizaron en la herramienta de Microsof
 
 [Consultar informe de Power BI](https://app.powerbi.com/view?r=eyJrIjoiYWNiYTA0NDMtNzVhMC00Y2FhLTkzMmYtODViM2RiZTBiYzUyIiwidCI6IjI5OWEyODgxLTEzODAtNDAyMC1iNDJmLTcxNWEzNWUxYmNhZiIsImMiOjR9)
 
+
+## Documento de investigación
+
+[Consultar tesis completa en PDF](Batalla_Naval_Tesis.pdf)
+
 ## Uso de inteligencia artificial
 
 Durante el desarrollo de la investigación se utilizó ChatGPT como herramienta de apoyo para tareas de revisión lingüística, programación y preparación del documento en LaTeX.
